@@ -1,0 +1,19 @@
+{
+  "name": "api-book",
+  "version": "1.0.0",
+  "description": "api para poder consumir a api do google books e trabalhar com os dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdoniroSalles/api-book.git"
+  },
+  "author": "Adoniro Faria Salles Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdoniroSalles/api-book/issues"
+  },
+  "homepage": "https://github.com/AdoniroSalles/api-book#readme"
+}
